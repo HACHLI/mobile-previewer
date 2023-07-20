@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@adalo/constants@0.3.9":
-  version "0.3.9"
-  resolved "https://registry.yarnpkg.com/@adalo/constants/-/constants-0.3.9.tgz#a010751dc43a37c1846417e88833e13641cb980c"
-  integrity sha512-BpkBqQhurwABuAHf0lO6jGy98/fLzfLHe5zRl2JOHFEzpNF3EIeY0pKA3Pe0c+94oc1jfSdfA3EKfkC8e0XzFw==
+"@adalo/constants@0.3.13":
+  version "0.3.13"
+  resolved "https://registry.yarnpkg.com/@adalo/constants/-/constants-0.3.13.tgz#41d07b38e1f0389b190ff2d734bd9e439d51db39"
+  integrity sha512-cMC08T5OTo7hJyb5zfCxHixt/OuUIrwNpWHS3TgstVvwg3flISBkf1uIykYoVW1K2RhrNciaRxmHzbj9jBD0KA==
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.5.5":
   version "7.5.5"
@@ -1169,12 +1169,12 @@
     react-native-paper "^4.7.2"
     react-native-vector-icons "^8.1.0"
 
-"@protonapp/proton-runner@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@protonapp/proton-runner/-/proton-runner-1.0.0.tgz#1665d13d9525dda2e287fa1cc5d2b311d1e92c1b"
-  integrity sha512-G/N295C2zQ/4OH0pI1cTyiUj83dzQH9bAfGBzWOm1iuqz7H0FAnq452xQWhaZLNUWBi47dvN9ylh7khaCRrygQ==
+"@protonapp/proton-runner@^1.0.48":
+  version "1.0.48"
+  resolved "https://registry.yarnpkg.com/@protonapp/proton-runner/-/proton-runner-1.0.48.tgz#034f951de36dbe9bb3e173a6b72ea397c500fbac"
+  integrity sha512-b2w8BKy+NjkM+xeHWlb8ai3ZAliqns1llrZbKK0/B5E5GpR/5MDwOT0rmqgWMzw1qm0m3AJSpySCMlcgSqEbIw==
   dependencies:
-    "@adalo/constants" "0.3.9"
+    "@adalo/constants" "0.3.13"
     "@protonapp/react-mobile-date-picker" "^0.0.9"
     "@react-native-async-storage/async-storage" "^1.15.9"
     "@react-native-community/push-notification-ios" "1.1.0"
